@@ -69,6 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## This project is based off this Udemy Course: [https://www.udemy.com/course/the-ultimate-react-course/](https://www.udemy.com/course/the-ultimate-react-course/)
+## This project is based off this Udemy Course:
 
-### This project is also deployed here: [https://pizza-menu.nightsidecode.com](https://pizza-menu.nightsidecode.com)
+[https://www.udemy.com/course/the-ultimate-react-course/](https://www.udemy.com/course/the-ultimate-react-course/)
+
+### This project is also deployed here:
+
+[https://pizza-menu.nightsidecode.com](https://pizza-menu.nightsidecode.com)
